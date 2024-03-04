@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kapkrash
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Bachelor's in Computer Science with a Minor in Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Obtained Bachelor's in Computer Science with a Minor in Cyber Security
+- 💞️ I’m looking to collaborate on Unreal Engine 5.3 Games
 - 📫 How to reach me, send a message on GitHub for now. 
 
 <!---
